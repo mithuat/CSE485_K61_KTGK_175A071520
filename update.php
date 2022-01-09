@@ -49,7 +49,7 @@
     </header>
     <main>
     <div class="container">
-        <h5 class="text-center text-primary mt-5">Cập nhật thông tin Danh bạ nhân viên</h5>
+        <h5 class="text-center text-primary mt-5">Cập nhật thông tin Danh bạ </h5>
         <!-- Form thêm Dữ liệu nhân viên -->
         <form action="process-update-employee.php" method="post">
             <div class="form-group">
